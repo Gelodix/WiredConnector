@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": {"model":  "wiredconnector:block/wired_connector"}
+  }
+}

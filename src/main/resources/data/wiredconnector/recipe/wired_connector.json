@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "redstone",
+  "pattern": [
+    "###",
+    "#D#",
+    "#.#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:gold_ingot"
+    },
+    "D": {
+      "item": "computercraft:redstone_relay"
+    },
+    ".": {
+      "item": "drivebywire:wire"
+    }
+  },
+  "result": {
+    "id": "wiredconnector:wired_connector",
+    "count": 1
+  }
+}
