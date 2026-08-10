@@ -1,0 +1,14 @@
+site_name: "CC: Wired Connector"
+site_description: "Documentation for the CC: Wired Connector addon for CC: Tweaked and Drive-By-Wire-Sable"
+site_author: Gelodix
+
+copyright: Copyright © 2026 Gelodix
+
+theme:
+  name: material
+  favicon: img/favicon.ico
+  logo: img/logo.png
+  palette:
+    - scheme: slate
+      primary: teal
+      accent: light blue
