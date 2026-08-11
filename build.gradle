@@ -124,7 +124,7 @@ configurations {
 dependencies {
     implementation "maven.modrinth:cc-tweaked:8XEJbAee"
     implementation "maven.modrinth:drive-by-wire-sable:0.3.0"
-    implementation "maven.modrinth:sable:[2.0.0, 2.0.3]"//"2.0.3+mc1.21.1"
+    implementation "maven.modrinth:sable:2.0.3+mc1.21.1"
     implementation "maven.modrinth:create:6.0.10+mc1.21.1"
     // Example optional mod dependency with JEI
     // The JEI API is declared for compile time use, while the full JEI artifact is used at runtime

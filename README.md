@@ -5,8 +5,9 @@ CC: Wired Connector is a simple NeoForge addon for [CC: Tweaked][computercraft] 
 ## Content
 
 This mod only adds one block: the Wired Connector.
-This block is a CC peripheral that allows the use of Drive-By-Wire channels with CC: Tweaked.
-You don't need to struggle with redstone relayq and make absolutely non-compact designs for your contraptions.
+This block is a CC peripheral that allows the use of Drive-By-Wire channels with CC: Tweaked and works like any other DBW compatible block.
+Right-click the connector, select your channel and right-click the block to which you want to output a signal with this channel.
+You don't need to struggle with redstone relays and make absolutely non-compact designs for your contraptions.
 
 It can be crafted with the following recipe:
 
@@ -14,7 +15,7 @@ It can be crafted with the following recipe:
 
 ## Wired Connector Methods
 
-Those methods are inspired by the CC built-in redstone librairy to make them easy to use.
+Those methods are inspired by the CC built-in redstone library to make them easy to use.
 
 |Method name                     |Utility                                         |Parameters|
 |---|---|---|
@@ -30,13 +31,13 @@ Those methods are inspired by the CC built-in redstone librairy to make them eas
 - [Drive-By-Wire-With-Sable 0.3.0][dbwversion]
 - [CC: Tweaked 1.120.0][ccversion]
 - [Create 6.0.10+][createversion] (DBW dependency)
-- [Sable 2.0.0+][sable] (DWB dependency)
+- [Sable 2.0.0+][sable] (DBB dependency)
 
 ## Incompatible mods
 
 No incompatible mods have been found for now.
 
-If you ever find an incompatible mod, please let me know by opening a [issue][issues].
+If you ever find an incompatible mod, please let me know by opening an [issue][issues].
 
 ## License
 
