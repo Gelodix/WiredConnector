@@ -46,7 +46,7 @@ authors="Gelodix"
 
 # The description text for the mod (multi line!) (#mandatory)
 description='''
-Add a new perripheral for your sable contraptions using CC: Tweaked
+Add a new CC peripheral for your sable contraptions using Drive-By-Wire
 '''
 
 # The [[mixins]] block allows you to declare your mixin config to FML so that it gets loaded.
