@@ -5,8 +5,6 @@
   "wiredconnector.configuration.title": "CC: Wired Connector Configs",
   "wiredconnector.configuration.section.wiredconnector.common.toml": "CC: Wired Connector Configs",
   "wiredconnector.configuration.section.wiredconnector.common.toml.title": "CC: Wired Connector Configs",
-  "wiredconnector.configuration.items": "Item List",
-  "wiredconnector.configuration.logDirtBlock": "Log Dirt Block",
-  "wiredconnector.configuration.magicNumberIntroduction": "Magic Number Text",
-  "wiredconnector.configuration.magicNumber": "Magic Number"
+  "wiredconnector.configuration.channelsNumber": "Channels Number"
+
 }

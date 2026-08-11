@@ -1,0 +1,10 @@
+{
+  "itemGroup.wiredconnector": "Connecteur filaire",
+  "block.wiredconnector.wired_connector": "Connecteur filaire",
+
+  "wiredconnector.configuration.title": "Configuration de CC: Connecteur filaire",
+  "wiredconnector.configuration.section.wiredconnector.common.toml": "Configuration de CC: Connecteur filaire",
+  "wiredconnector.configuration.section.wiredconnector.common.toml.title": "Configuration de CC: Connecteur filaire",
+  "wiredconnector.configuration.channelsNumber": "Nombre de canaux"
+
+}
